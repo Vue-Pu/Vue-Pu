@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vue-Pu
 - 👀 I’m interested in Getting Goals done:
-- 1. WHF **Work From Home**
-- 2. ***Complete my freecodecamp.org program.***
+- 1. ***freecodecamp.org****
+- 2. ***amphtml --[] cdn***
 - 3. ***Hosting my portfolio 
 here on this **Awesome** platform GitHub.***
 - 🌱 I’m currently learning how to contribute and collaborate in 
