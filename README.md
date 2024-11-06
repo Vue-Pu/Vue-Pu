@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vue-Pu
 - 👀 I’m interested in Getting Goals done:
 - 1. ***freecodecamp.org****
-- 2. ***amphtml --[] cdn***
+- 2. ***amphtml  edit cdn with your canonical site_name***
 - 3. ***Hosting my portfolio 
 here on this **Awesome** platform GitHub.***
 - 🌱 I’m currently learning how to contribute and collaborate in 
@@ -10,7 +10,7 @@ Different projects here in GitHub.com.
 Repo! The array is endless!
 - 📫 How to reach me ...will provide my contact info., shortly
 <!-- 
-Todo: edit How to reach me info next time you visit this repo.
+Todo: dit How to reach me info next time you visit this repo.
 Also try merging this Read me file with Hello World actions.
 And as a GitHub portfolio.
 <!---
