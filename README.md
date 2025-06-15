@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @Vue-Pu
-- 👀 I’m interested in Getting Goals done:
-- 1. ***freecodecamp.org****
-- 2. ***amphtml  edit cdn with your canonical site_name***
-- 3. ***Hosting my portfolio 
-here on this **Awesome** platform GitHub.***
-- 🌱 I’m currently learning how to contribute and collaborate in 
+**👋 Hi, I’m @Vue-Pu**
+- 👀 Todos:
+- [ ] 1. fCC_Typography step 35-68 
+- [ ] 2. Next js and React app.  
+- [ ] 3. start with a Portsfolio of my fCC PROJECTS! 
+- 🌱  
 Different projects here in GitHub.com.
 - 💞️ I’m looking to collaborate on ... GitHub Actions or maybe in a trending
 Repo! The array is endless!
-- 📫 How to reach me ...will provide my contact info., shortly
+- [ ]  📫 How to reach me EMAIL: gmfypsmx@gmail.com
 <!-- 
 Todo: dit How to reach me info next time you visit this repo.
 Also try merging this Read me file with Hello World actions.
